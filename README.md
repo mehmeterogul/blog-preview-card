@@ -18,10 +18,10 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
 ![](screenshots/desktop.png)
-<img src="screenshots/mobile.png" height="200" align="center">
+<img src="screenshots/mobile.png" height="200" style="text-align:center">
 
 ### Links
 
