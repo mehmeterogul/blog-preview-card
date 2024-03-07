@@ -21,7 +21,7 @@ Users should be able to:
 ### Screenshots
 
 ![](screenshots/desktop.png)
-<img src="screenshots/mobile.png" height="200" style="text-align:center">
+<img src="screenshots/mobile.png" height="200">
 
 ### Links
 
